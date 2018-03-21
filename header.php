@@ -30,7 +30,7 @@
 
 <div id="sgf-logo">
 	
-		<?php include "logo/logo.php";?>
+		<?php //include "logo/logo.php";?>
 	
 </div>
 		<?php// get_template_part( 'template-parts/header/header', 'image' ); ?>

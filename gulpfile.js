@@ -96,18 +96,11 @@ gulp.task('watch', function() {
   // Watch .js files
   gulp.watch('app/js/**/*.js', ['scripts_custom']);
 
-   
   gulp.watch('**/*.php').on('change', function () {
-    browserSync.reload();
-  });
-   gulp.watch('**/*.php').on('change', function () {
-    browserSync.reload();
+  browserSync.reload();
   });
   // Watch image files
   //gulp.watch('src/images/**/*', ['images']);
-
-  // 
-
 
   // Watch any files in dist/, reload on change
   gulp.watch(['./']).on('change', browserSync.reload);
