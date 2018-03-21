@@ -1,4 +1,4 @@
-var localhost = 'http://spacegames.192.168.1.11.xip.io:8896/';//local dev url
+var localhost = 'http://localhost/dev/lukesiegel.com/';//local dev url
 
 var gulp = require('gulp'),
     sass = require('gulp-ruby-sass'),

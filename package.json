@@ -1,26 +1,26 @@
 {
-  "name": "sgf",
+  "name": "Luke Siegel",
   "version": "1.0.0",
-  "description": "Space Games Federation Theme",
+  "description": "Luke Siegel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/powersimple/spacegamesfederation.git"
+    "url": "git+https://github.com/lukesiegel/devtheme.git"
   },
   "keywords": [
-    "Space",
-    "Games",
-    "Federation"
+    "Luke",
+    "Siegel",
+    "Website"
   ],
-  "author": "Ben Erwin",
+  "author": "Luke Siegel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/powersimple/spacegamesfederation/issues"
+    "url": "https://github.com/lukesiegel/devtheme/issues"
   },
-  "homepage": "https://github.com/powersimple/spacegamesfederation#readme",
+  "homepage": "https://github.com/lukesiegel/devtheme/#readme",
   "devDependencies": {
     "browser-sync": "^2.23.5",
     "del": "^3.0.0",
